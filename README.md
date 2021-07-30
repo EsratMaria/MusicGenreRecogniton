@@ -1,4 +1,4 @@
-# Music Genre Recogniton
+# Music Genre Recogniton  
 
 This project is about classifying the genre of a song by using machine learning approach. The neural network used in this code is made up of CNN and LSTM. When compared this model with CNN-GRU, the CNN-LSTM approach performed better than the traditional CNN-GRU approach. The testing has been done on GTZAN dataset.
 
