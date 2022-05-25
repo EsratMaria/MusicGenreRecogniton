@@ -7,7 +7,7 @@ This project is about classifying the genre of a song by using machine learning 
 For this project I have used the GTZAN dataset. This dataset has 1000 audio track and each is 30 sec long. This dataset consists of 10 genres. Download GTZAN [here](http://opihi.cs.uvic.ca/sound/genres.tar.gz).
 It has the following genres:
 * blues
-* classical 
+* classical
 * country
 * disco  
 * hiphop
