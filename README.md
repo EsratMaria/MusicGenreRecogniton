@@ -8,7 +8,7 @@ For this project I have used the GTZAN dataset. This dataset has 1000 audio trac
 It has the following genres:
 * blues
 * classical  
-* country  
+* country 
 * disco  
 * hiphop
 * jazz
