@@ -2,7 +2,7 @@
 
 This project is about classifying the genre of a song by using machine learning approach. The neural network used in this code is made up of CNN and LSTM. When compared this model with CNN-GRU, the CNN-LSTM approach performed better than the traditional CNN-GRU approach. The testing has been done on GTZAN dataset.
 
-## Dataset         
+## Dataset        
 
 For this project I have used the GTZAN dataset. This dataset has 1000 audio track and each is 30 sec long. This dataset consists of 10 genres. Download GTZAN [here](http://opihi.cs.uvic.ca/sound/genres.tar.gz).
 It has the following genres:
